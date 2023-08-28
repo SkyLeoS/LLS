@@ -59,6 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ходьба.cs" />
+    <Compile Include="Assets\создание зомби.cs" />
+    <Compile Include="Assets\выстрел.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
